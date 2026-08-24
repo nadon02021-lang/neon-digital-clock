@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 body {
     display: flex;
     justify-content: center;
@@ -5,7 +6,7 @@ body {
     min-height: 100vh;
     background: linear-gradient(45deg, #1a1a2e, #16213e);
     margin: 0;
-    font-family: "Orbitron", sans-serif;
+    font-family: "Playfair", sans-serif;
     overflow: hidden;
 }
 
@@ -61,5 +62,3 @@ body {
         padding: 20px;
     }
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
